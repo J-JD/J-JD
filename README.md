@@ -15,8 +15,6 @@
 - 😄 Pronouns: Don nadie, Monsieur Tout-le-monde, ein Niemand.
 - ⚡ Fun fact: Horses are awesome!
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="english" width="26px" src="./img/us-uk-flag.svg">
