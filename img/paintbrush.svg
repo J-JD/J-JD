@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 64 64"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(0 -988.36)"
+    >
+    <g
+        id="g3096"
+        fill="#264de4"
+      >
+      <path
+          id="rect3074"
+          d="m10 991.36h42v14h-42v-14z"
+      />
+      <path
+          id="path3076"
+          d="m9 999.36v-3h-4v3h4z"
+      />
+      <path
+          id="path3078"
+          d="m53 999.36 5 0.00003v8l-29 11v7h3v-5l29-11v-13l-8-0.00002v3z"
+      />
+      <path
+          id="rect3080"
+          d="m34 1026.4v23h-7v-23h7z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >paint-roller</dc:title
+        >
+        <dc:date
+          >2013-11-20T08:57:50</dc:date
+        >
+        <dc:description
+          >paint roller symbol</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/188935/paint-roller-by-crisg-188935</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >crisg</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >paint</rdf:li
+            >
+            <rdf:li
+              >paint roller</rdf:li
+            >
+            <rdf:li
+              >paint work</rdf:li
+            >
+            <rdf:li
+              >painting</rdf:li
+            >
+            <rdf:li
+              >pictogram</rdf:li
+            >
+            <rdf:li
+              >symbol</rdf:li
+            >
+            <rdf:li
+              >water paint</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
