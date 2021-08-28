@@ -25,8 +25,8 @@
 <img align="left" alt="german" width="26px" src="./img/german-flag.svg">
 <img align="left" alt="chinese" width="26px" src="./img/chinese.svg">
 <img align="left" alt="tools" width="26px" src="./img/tools.svg">
-<img align="left" alt="paintbrush" width="26px" src="./img/paintbrush.svg">
-<img align="left" alt="hammer" width="26px" src="./img/hammer.svg">
+<img align="left" alt="paintbrush" width="26px" height="auto" src="./img/paintbrush.svg">
+<img align="left" alt="hammer" width="26px" height="auto" src="./img/hammer.svg">
 <img align="left" alt="sewing machine" width="26px" src="./img/sewing-machine.svg">
 <img align="left" alt="gears" width="26px" src="./img/gears.svg">
 <img align="left" alt="lol" width="26px" src="./img/lol.svg">
