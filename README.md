@@ -28,3 +28,14 @@
 <img align="left" alt="sewing machine" width="26px" src="./img/sewing-machine.svg">
 <img align="left" alt="gears" width="26px" src="./img/gears.svg">
 <img align="left" alt="lol" width="26px" src="./img/lol.svg">
+
+<br />
+<br />
+
+---
+
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-JD&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="John Doe's github stats" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-JD&layout=compact&theme=radical&hide_border=false" alt="Top Langs" /></a>
