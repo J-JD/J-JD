@@ -6,8 +6,8 @@
 
 ### Please don't take it too seriously!
 
-- 🔭 I’m currently working on an urban garden.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working on an urban garden.
+- 🔭 I’m currently learning web development.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help in understanding this mess of what it is to be human.
 - 💬 Ask me about gardening and fix old stuff.
